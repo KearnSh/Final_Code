@@ -28,7 +28,7 @@ def stack_slices_to_volume(directory, file_pattern, num_slices):
     return np.stack(slices, axis=0)
 
 # Usage:
-directory = 'C:/Users/kearn/OneDrive/Documents/EEE/IndividualProject/Final_Code/data' # Change this to your directory
+directory = 'Your_Directory/Final_Code/data'  # Change this to your directory
 file_pattern = 'strawberry_{}.pgm'  # File pattern
 num_slices = 240  # Amount of slices
 
