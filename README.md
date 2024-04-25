@@ -1,7 +1,7 @@
 # Final_Code
 # Overview
-There are two programs in this repository, StrawberryBedGeneration.cpp and pgm3D.py, and a folder data.
-StrawberryBedGeneration.cpp generates a 3D digital model of farm and converts this model into a set of 2D 'slices' in PGM format and saves these in data. 
+There are two programs in this repository, StrawberryBedGeneration.cpp and pgm3D.py, and a folder 'data'.
+StrawberryBedGeneration.cpp generates a 3D digital model of farm and converts this model into a set of 2D 'slices' in PGM format and saves these in the folder 'data'. 
 pgm3D.py compiles the 2D slices into a 3D array and visualises the models in 3D using PyVista.
 To run the code, download the folder named 'Final_Code' and follow the steps bellow:
 
