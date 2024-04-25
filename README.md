@@ -96,8 +96,8 @@ pgm3D.py:
 
 4) Open pgm3D.py using notepad and for line 31:
    "directory = 'Your_Directory/Final_Code/data' # Change this to your directory"
-   Change “your_Directory” to the location containing folder 'Final_Code'.
-   Example: 'C:/Users/Your_name/Strawberry/Final_Code/data'
+   Change “your_Directory” to the location in text containing folder 'Final_Code'.
+   Example: 'C:/Users/Your_name/Documents/Final_Code/data'
    
 5) Run pgm3D.py in your command line or termal:
    ```
