@@ -8,7 +8,7 @@ To run the code, download the folder named 'Final_Code' and follow the steps bel
 # How to run StrawberryGeneration.cpp and pgm3D.py
 
 # StrawberryGeneration.cpp:
-1) Open command prompt or terminal and input your Final_Code folder directory e.g.:
+1) Open command prompt (type cmd in windows search) or terminal and input your Final_Code folder directory (the location of the folder Final_Code in your files)  e.g.:
    ```
    cd C:\Users\your_name\Documents\Final_Code
    ```
